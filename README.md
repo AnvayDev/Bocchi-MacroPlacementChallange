@@ -1,4 +1,4 @@
-# Partcl/HRT Macro Placement Challenge
+# Partcl/HRT Macro Placement Challenge–SUBMISSION IS IN SUBMISSIONS FOLDER!!! ABPLACE_PLACER.py
 
 <img src="assets/HRT.png" alt="Hudson River Trading" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/partcl.png" alt="Partcl" height="80">
 
