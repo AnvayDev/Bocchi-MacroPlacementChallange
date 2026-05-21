@@ -1,0 +1,20 @@
+# Never bake benchmark data into the image — mount at runtime instead
+external/
+
+# Build artifacts and caches
+DREAMPlace/build/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+.cache/
+
+# IDE and OS files
+.idea/
+.DS_Store
+*.swp
+
+# Git
+.git/
+.gitmodules
